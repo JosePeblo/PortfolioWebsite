@@ -5,7 +5,7 @@
   <section id="about">
     <div class="about-h-stack">
       <img 
-        src="/src/assets/servers.jpg" 
+        src="/servers.jpg" 
         alt="image"
         class="about-image"
       >

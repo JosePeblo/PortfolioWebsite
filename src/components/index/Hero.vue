@@ -31,9 +31,9 @@ import Nav from '../Nav.vue';
         </div>
       </span>
       <div class="img-stack">
-        <img src="/src/assets/bghero.png" alt="background" class="bg-image">
+        <img src="/bghero.png" alt="background" class="bg-image">
         <img 
-          src="/src/assets/me.png" 
+          src="/me.png" 
           alt="cover-image"
           class="cover-image"
         >

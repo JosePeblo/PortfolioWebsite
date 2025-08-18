@@ -17,7 +17,7 @@
       <a href="https://www.upwork.com/ab/g/pub/wom/prx/eyJwZXJzb25VaWQiOiIxODg3MjM4MDE0OTkxMzQxOTcwIiwiY29udHJhY3RSaWQiOiIzOTg4NTE3OCIsImJhbm5lclR5cGUiOiJjb250cmFjdCIsImJhbm5lclZhcmlhbnQiOiJkZWZhdWx0Iiwid29tIjoiZmx2MiIsInJlZGlyZWN0IjoiZmxfcHJvZmlsZV9wcm9tbyJ9">
         
         <img 
-          src="/src/assets/freelance.png" 
+          src="/freelance.png" 
           alt="Upwork job certification"
           class="experience-image"
         >

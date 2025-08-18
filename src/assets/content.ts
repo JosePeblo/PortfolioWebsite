@@ -20,7 +20,7 @@ interface ProjectCard {
 const content: ProjectCard[] = [
   {
     title: "AI Caetec",
-    image: "/src/assets/cows.png",
+    image: "/cows.png",
     link: "https://github.com/Amatt2-B/LauCows",
     categories: [],
     tags: ['ai', 'python'],
@@ -30,7 +30,7 @@ const content: ProjectCard[] = [
 
   {
     title: "CML",
-    image: "/src/assets/cml.png",
+    image: "/cml.png",
     link: "https://github.com/JosePeblo/cml",
     categories: [],
     tags: ['c++'],
@@ -40,7 +40,7 @@ const content: ProjectCard[] = [
 
   {
     title: "Shader Shop",
-    image: "/src/assets/shader.png",
+    image: "/shader.png",
     link: "https://github.com/JosePeblo/ShaderShop",
     categories: [],
     tags: ['graphics', 'c++', 'opengl'],
@@ -50,7 +50,7 @@ const content: ProjectCard[] = [
 
   {
     title: "RRO",
-    image: "/src/assets/rro.jpg",
+    image: "/rro.jpg",
     link: "https://github.com/Roberto-Ruiz-Obregon-Tec/iOS-App",
     categories: [],
     tags: ['mobile dev', 'swift'],
@@ -60,7 +60,7 @@ const content: ProjectCard[] = [
 
   {
     title: "Plag Classifier",
-    image: "/src/assets/PlagClassifier.png",
+    image: "/PlagClassifier.png",
     link: "https://github.com/JosePeblo/PlagClassifier",
     categories: [],
     tags: ['ai', 'python'],
@@ -70,7 +70,7 @@ const content: ProjectCard[] = [
 
   {
     title: "shoot2d",
-    image: "/src/assets/shoot2d.png",
+    image: "/shoot2d.png",
     link: "https://github.com/JosePeblo/shoot2d",
     categories: [],
     tags: ['game dev', 'typescript'],
@@ -80,7 +80,7 @@ const content: ProjectCard[] = [
 
   {
     title: "Ghost Run",
-    image: "/src/assets/ghost.png",
+    image: "/ghost.png",
     link: "https://github.com/JosePeblo/GhostRun",
     categories: [],
     tags: ['game dev', 'c++'],
@@ -90,7 +90,7 @@ const content: ProjectCard[] = [
 
   {
     title: "Food classifier",
-    image: "/src/assets/food.png",
+    image: "/food.png",
     link: "https://github.com/JosePeblo/inteligencia-artifical/tree/main/deep_learning",
     categories: [],
     tags: ['ai', 'python'],
@@ -100,7 +100,7 @@ const content: ProjectCard[] = [
 
   {
     title: "Smart Growth",
-    image: "/src/assets/smartg.png",
+    image: "/smartg.png",
     link: "https://github.com/JosePeblo/SmartGrowth",
     categories: [],
     tags: ['iot', 'javascript', 'express', 'python'],
@@ -110,7 +110,7 @@ const content: ProjectCard[] = [
 
   {
     title: "Multi-agent systems",
-    image: "/src/assets/multiagents.png",
+    image: "/multiagents.png",
     link: "https://github.com/JosePeblo/",
     categories: [],
     tags: ['simulation', 'python', 'c#', 'unity'],
@@ -120,7 +120,7 @@ const content: ProjectCard[] = [
 
   {
     title: "Project Nexus",
-    image: "/src/assets/projnexus.png",
+    image: "/projnexus.png",
     link: "https://github.com/alejandraa-cruiz/TC2005B-Equipo-/tree/main/ProjectNexus",
     categories: [],
     tags: ['web dev', 'express', 'javascript', 'mysql'],
@@ -130,7 +130,7 @@ const content: ProjectCard[] = [
 
   {
     title: "Community Yoga",
-    image: "/src/assets/community.png",
+    image: "/community.png",
     link: "https://community-dev-aira.web.app/",
     categories: [],
     tags: ['wev dev', 'react', 'firebase'],
