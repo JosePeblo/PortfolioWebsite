@@ -1,7 +1,9 @@
 <script setup lang="ts">
 function PostEmail() {
-  const form: HTMLFormElement | null = document.getElementById("email-form")
-  if (form === null) return;
+  const element = document.getElementById("email-form")
+  if (element === null) return;
+
+  const form = element as HTMLFormElement;
 
   let data = new FormData(form);
 
